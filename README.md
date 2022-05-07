@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mrougelyemc
+- 👀 I’m interested in logistics and software development
+- 🌱 I’m currently working on warehouse management software
+- 📫 mrougely.emc@gmail.com
